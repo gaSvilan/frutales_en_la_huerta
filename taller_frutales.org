@@ -1,0 +1,511 @@
+#+TITLE: Taller Virtual: Manejo Agroecológico de Plagas claves en frutales de la llanura tucumana 
+#+DATE: [2020-08-18 mar]
+#+EMAIL: blanco.marcelo@inta.gob.ar
+#+COMENT: 
+#+STARTUP: showeverything
+#+LANGUAGE: es
+#+LATEX_HEADER: \usepackage[spanish]{babel}
+#+OPTIONS: num:2  H:2 html-postamble:nil toc:t
+#+EXCLUDE_TAGS: noexport
+#+PROPERTY: header-args :exports both :eval no
+#+LATEX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LATEX_HEADER: \hypersetup{citecolor=black,colorlinks=true,urlcolor=blue,pdfborderstyle={/S/U/W 1}}
+#+LATEX_HEADER: \usepackage[round]{natbib}
+#+LATEX_HEADER: \renewcommand{\bibsection}
+* Taller Virtual: Manejo Agroecológico de Plagas Claves en Frutales de la llanura tucumana.
+  :PROPERTIES:
+  :ignore:
+  :CUSTOM_ID: taller-virtual-manejo-agroecológico-de-plagas-claves-en-frutales-de-la-llanura-tucumana.
+  :END:
+
+** Objetivo:
+   :PROPERTIES:
+   :CUSTOM_ID: objetivo
+   :END:
+
+ - Que los participantes de la capacitación mejoren o adquieran los conocimientos para manejar agroecológicamente las plagas claves en los
+   frutales familiares.
+
+ - Difundir y capacitar a los participantes en la identificación de Diaphorina citri, generando de tal manera un núcleo de actores del
+   territorio que estaría en condiciones de alertar tempranamente sobre la presencia del vector del Candidatus liberibacter sp en las plantas cítricas de traspatio.
+
+** Público al que está dirigido:
+   :PROPERTIES:
+   :CUSTOM_ID: público-al-que-está-dirigido
+   :END:
+
+Huerteros, promotores del Pro Huerta, Maestros de Técnicas Agropecuarias, docentes de agrotécnicas.
+
+** Modalidad de la capacitación:
+   :PROPERTIES:
+   :CUSTOM_ID: modalidad-de-la-capacitación
+   :END:
+
+Curso de varias jornadas de duración, totalmente en modalidad virtual, con momentos asíncronos (el capacitador envía información que el
+participante debe procesar y responder en lapsos de tiempos variables (no presencial)) y síncronos (el capacitador y el participante se encuentran en línea en horarios fijos para intercambios virtuales).
+
+** Disertantes:
+   :PROPERTIES:
+   :CUSTOM_ID: disertantes
+   :END:
+
+*** Ing. Agr. Marcelo R. Blanco.
+
+*** M. Sc Ing. Agr. Beatriz Carrizo.
+
+*** Comunicadora Claudia Moyano.
+
+** Fecha propuesta de realización:
+   :PROPERTIES:
+   :CUSTOM_ID: fecha-propuesta-de-realización
+   :END:
+
+Segunda quincena de agosto.
+
+** Socios estratégicos:
+   :PROPERTIES:
+   :CUSTOM_ID: socios-estratégicos
+   :END:
+
+*Comisionados Comunales*, para que pongan a disposición los nodos digitales allí donde existan, el *Equipo de Promotores del ProHuerta*, por su rol en la convocatoria y en la posterior multiplicación de la propuesta, el *Equipo de Comunicadores de la EEA Famaillá* en su rol de
+asistente en las cuestiones técnicas de la transmisión y en la difusión, el *Grupo de Trabajo Fruticultura y Flores* por el aporte de material
+didáctico como trampas para manipular, imágenes e información técnica.
+
+** Descripción:
+   :PROPERTIES:
+   :CUSTOM_ID: descripción
+   :END:
+
+La propuesta busca capacitar a los Huerteros en el manejo de plagas claves de los frutales de traspatio, en el área de influencia de la *AER Banda del Río Salí*, donde es característico en el fondo de las casas, la existencia de uno o más frutales, la mayoría de las veces cítricos y en menor medida duraznos, ciruelos, mangos, nísperos, etc. Es característico que a partir de mediados de septiembre y en especial a partir de mediados de octubre hasta finales de abril de cada año, se reciba la demanda de asistencia técnica de huerteros y público en general por los daños provocados por plagas claves, entre las que destacan Mosca de la Fruta (Anastrepha fraterculus y Ceratitis capitata), Minador de los Cítricos (Phyllocnistis citrella), Gusano del Brote del Duraznero (Grapholita molesta), ácaros y pulgones. Para el manejo de estas plagas es indispensable la realización de labores culturales y colocación de trampas temprano en el ciclo anual del frutal, que es antes de la aparición de los daños visibles, por lo cual la fecha elegida debe ser temprano en el ciclo estacional del frutal, para que los participantes realicen las prácticas presentadas y observen resultados en un corto período de tiempo, con lo cual se apropian de la propuesta. Se presenta también como contenido del curso el reconocimiento de la Chicharrita Asiática de los Cítricos (Diaphorina citri), como la manera de constituir un núcleo de huerteros capacitados en el reconocimiento de esta plaga clave, transmisora de la enfermedad cuarentenaria HLB, actualmente no presente en la provincia de Tucumán.
+
+La pandemia de COVID-19 a desnudado las serias diferencias de recursos con que cuentas las familias de áreas urbanas frente a las de áreas suburbanas o rurales, como ser acceso a señal de datos de calidad o la posibilidad de hacer uso de recursos informáticos como las aplicaciones de reuniones en línea o de videoconferencias; plantearse actividades de construcción conjunta de contenidos con población adulta en estas condiciones exige la exploración de recursos innovadores.
+
+El uso de recursos usuales a nivel técnico, académico o en el ámbito educativo como las aplicaciones Zoom o Google Meeting se presentan como poco prácticas para la población adulta de zonas rurales o suburbanas, que sin embargo tienen acceso a celulares con capacidad para las aplicaciones de mensajería Whatsapp y de transmisión en línea Youtube, aunque sean zonas con pobre cobertura de datos.
+
+** Población destinataria:
+   :PROPERTIES:
+   :CUSTOM_ID: población-destinataria
+   :END:
+
+*Promotores del programa INTA ProHuerta MDS* y *familias con huertas con frutales de traspatio*, con destino al autoconsumo o a la venta en circuitos cortos de comercialización (ferias locales, intercambios locales, incluso trueque). La población objetivo no cuenta con acceso a aplicaciones de reuniones en línea o no saben utilizarlas. Se ha identificado en los territorios de la población destinataria algunos recursos locales de conectividad que se pueden utilizar para eventos sincrónicos en la forma de reuniones virtuales, representadas por Nodos de Conectividad presentes en algunas Comunas Rurales, que cuentan con acceso a internet, computadoras, pantallas y proyectores.
+
+** Equipo de gestión:
+   :PROPERTIES:
+   :CUSTOM_ID: equipo-de-gestión
+   :END:
+
+Se propone la conformación de un equipo de trabajo mínimo constituido por un o una extensionista, un o una comunicador o comunicadora y un o una investigadora, que gestionen y coordinen la capacitación virtual en temas de interés para la población objetivo de la propuesta.
+
+** Regulación de la interacción de los Integrantes:
+   :PROPERTIES:
+   :CUSTOM_ID: regulación-de-la-interacción-de-los-integrantes
+   :END:
+
+Un elemento básico de la metodología será la presentación de un Código de Conducta que regule las interacciones entre los Integrantes y un reglamento del taller. Los *Capacitadores* serán los encargados de presentar dichos documentos al inicio del taller.
+
+** Convocatoria:
+   :PROPERTIES:
+   :CUSTOM_ID: convocatoria
+   :END:
+
+La actividad se difundirá utilizando los medios usuales de comunicación del INTA y en especial, apoyándose en la red del *Equipo de Promotores del ProHuerta*, quienes incentivarán la participación de los beneficiarios en el taller virtual. Los promotores serán los principales encargados de comunicar a los *Capacitadores* los datos de los participantes.
+
+Con los datos recolectados en la inscripción, se confeccionará la base de datos de los Participantes, con los cuales se armará un grupo de
+Whatsapp, utilizando como administrador la línea de un teléfono corporativo dedicado.
+
+** Dinámica del taller:
+   :PROPERTIES:
+   :CUSTOM_ID: dinámica-del-taller
+   :END:
+
+Será extendida en el tiempo, en etapas de tiempo variable de duración, con actividades de compresión (teóricas) mediadas por materiales pedagógicos apropiados (imágenes y microvideos) con poco texto explicativo y actividades prácticas. Un tema del taller constará de un microvideo donde un Disertante presenta los temas centrales, acompañado por imágenes y música de fondo según el contexto; acompañando el video se envían dispositivas con información en forma de imágenes, gráficos y en menor medida texto que complementan y profundizan el tema.
+
+Los Participantes como producto del taller deben realizar un ejercicio práctico y publicar el producto del mismo con una foto o un vídeo en el grupo de Whatsapp. La devolución en común de los prácticos da lugar para el intercambio entre los participantes y los capacitadores, que será uno de los momentos de la construcción colectiva del conocimiento.
+
+Para mejorar la dinámica del taller, se habilitarán dos salas (o grupos) de la aplicación de mensajería:
+
+- *Sala de materiales de estudio*: donde los únicos autorizados para publicar son los *Capacitadores*, en la cual se publicarán los
+  materiales del curso. Su importancia es evitar que los materiales se pierdan entre todos los mensajes de los Participantes en la *Sala de Intercambio* una vez que se generalice la discusión.
+
+- *Sala de intercambio*: donde se produce el relacionamiento entre los Integrantes del taller y los participantes publican el producto de sus
+  prácticas.
+
+Por la posibilidad de interacción que posibilita la plataforma, los tiempos o momentos pueden modificarse, en base al reglamento del taller.
+
+Para regular los intercambios de los participantes, se deben establecer momentos fijos de interacción en que el o los miembros del equipo de
+gestión estarán presentes en línea en horarios y días preestablecidos,
+
+** Evaluación del taller:
+   :PROPERTIES:
+   :CUSTOM_ID: evaluación-del-taller
+   :END:
+
+Una de las evaluaciones pedagógicas del taller virtual se hará con una encuesta de entrada de conocimientos que los Participantes devolverán en
+privado al anfitrión del grupo, y una encuesta de salida con los mismos contenidos que el Participante devolverá por la misma vía; la diferencia
+entre las respuestas correctas de la encuesta de entrada y la de salida indicará una medida de la mejora en los conocimientos generales.
+
+** Cierre del taller:
+   :PROPERTIES:
+   :CUSTOM_ID: cierre-del-taller
+   :END:
+
+El momento de cierre del taller virtual puede ser un evento transmitido en vivo por la plataforma Zoom y en simultáneo por Youtube, de síntesis
+final de lo producido durante la actividad, requiriendo la colaboración de los Nodos de Conectividad de las Comunas Rurales para posibilitar la
+asistencia de la mayor cantidad posible de Participantes.
+
+** Certificación:
+   :PROPERTIES:
+   :CUSTOM_ID: certificacion
+   :END:
+
+Al final del taller se entregará un certificado digital de participación y aprobación a todo aquel participante que haya presentado el 80% de los trabajos prácticos requeridos en el lapso de tiempo estipulado y que halla publicado por lo menos un mensaje en la *La Sala de Intercambio* en cada uno de los módulos del taller virtual.
+
+** Temario:
+   :PROPERTIES:
+   :CUSTOM_ID: temario
+   :END:
+
+1. *Presentación del taller virtual*. Objetivos del curso. Productos esperados. Presentación de la metodología empleada. Compartir y discutir el Código de Conducta. Compartir y discutir el Reglamento del Taller. Tiempos y horarios. Una introducción al manejo agroecológico de plagas en los frutales de traspatio.
+
+2. *Mosca de la fruta en la huerta familiar*: frutales que ataca y daños que provoca,  especies e identificación de moscas de
+   la fruta, ciclo biológico, momento del daño, manejo cultural de la plaga, monitoreo con trampas, control con trampas.
+
+   - *Práctico 1*: construcción de trampas de moscas tipo Porticci caseras. Colocación de las mismas.
+
+   - *Práctico 2*: fotografía de los insectos que cayeron en las trampas, intento de identificación conjunta.
+
+3. *Minador de los cítricos* en la huerta familiar: frutales que ataca, daños que provoca, momento del daño, descripción del agente causal, ciclo biológico, monitoreo con trampas, manejo cultural de la plaga, control con trampas amarillas.
+
+   - *Práctico 3*: construcción de trampas de la polilla minadora de los cítricos. Colocación de las mismas.
+
+   - *Práctico 4*: fotografía de los insectos que cayeron en las trampas, intento de identificación conjunta.
+
+4. *Otras plagas que atacan los frutales*: gusano del brote del duraznero y el ciruelo, ácaros y pulgones. Daños que provocan,
+   momento del daño, especies e identificación de las mismas, manejo cultural y control con trampas y preparados.
+
+   - *Práctico 5*: construcción de trampas de polilla del brote. Colocación de las mismas.
+
+5. *Chicharrita asiática de los cítricos*: importancia, el *HLB* o *Huanglongbing de los Cítricos*, frutales en los que se encuentra, ciclo biológico, identificación, denuncia de su presencia.
+
+   - *Práctico 5*: fotografía de insectos en cítricos de traspatio, intento de identificación conjunta.
+
+6. *Cierre en línea del taller virtual*.
+
+** Cronograma:
+   :PROPERTIES:
+   :CUSTOM_ID: cronograma
+   :END:
+
+- *Momento 1*: Presentación del taller virtual. Invitación a posibles destinatarios. Formación del grupo de Whatsapp de participantes.
+
+- *Momento 2*: Mosca de la fruta en la huerta familiar. Practico 1.
+
+- *Momento 3*: Minador de los cítricos en la huerta familiar. Practico 2 y Practico 3.
+
+- *Momento 4*: Chicharrita Asiática de los cítricos. Práctico 4 y práctico 5.
+
+- *Momento 5*: Otras plagas que atacan los frutales. Práctico 6.
+
+- *Momento 6*: Cierre del taller con una sesión de zoom y Youtube.
+
+* Glosario de palabras:
+  :PROPERTIES:
+  :CUSTOM_ID: glosario-de-palabras
+  :END:
+
+- *Integrantes*: todas las personas que participan en algún momento de los intercambios del curso, incluye al equipo de gestión del taller.
+
+- *Participantes*: todos los integrantes del curso que no son el equipo de gestión. Son los que se anotaron para participar del taller virtual.
+
+- *Capacitadores*: son las personas que organizan y gestionan el curso, sean o no miembros del INTA.
+
+- *Anfitrión*: se refiere al equipo que sirve de base para el equipo de gestión para organizar las actividades, es físicamente un celular
+  corporativo institucional. En inglés es el host.
+
+- *Huerteros*: productores familiares de sistemas muy variados y mixtos, que desarrollan la producción de alimentos para el autoconsumo y excedentes para la venta.
+
+* Guiones:
+  :PROPERTIES:
+  :CUSTOM_ID: guiones
+  :END:
+  
+** Presentación del taller virtual:
+   :PROPERTIES:
+   :CUSTOM_ID: presentación-del-taller-virtual
+   :END:
+
+- *Video 1*:
+
+  - De 120 a 240 segundos? con la presentación de los *Capacitadores*, temas:  metodología básica, trabajo práctico y presentación de resultados en forma de fotos o videos cortos en el grupo, importancia del código de conducta, importancia del reglamento del curso, tiempos y horarios.
+
+  - *Diálogos*:
+
+    - Voz en off: Imagen con logos, nombre del taller. Bienvenidos al taller virtual: manejo agroecológico de plagas claves en frutales de la llanura tucumana. Organizado los la AER Banda del Río Salí del INTA, con el apoyo del Área de Fruticultura de la EEA Famaillá y el equipo de comunicaciones de la experimental.
+
+    - Presentación de BC.
+
+    - Presentación de MRB.
+
+    - Presentación de CM.
+
+    - Voz en off. Imagen con logos, nombre del taller. Imagen de frutales de traspatio. El objetivo del curso es compartir los conocimientos para mejorar la forma en que manejamos las principales plagas que atacan los principales frutales de traspatio. Esto incluye la identificación de un insecto llamado *Chicharrita Asiática de los Cítricos*, que aunque no causa un daño importante es el transmisor del *HLB* o *Huanglongbing de lo Cítricos*, enfermedad que es una amenaza real a la actividad citrícola. Destinado a promotores del ProHuerta y huerteros, se espera que al final del curso los participantes puedan identificar las plagas claves, producir trampas caseras, realizar prácticas de manejo e identificar a la Chicharrita Asiática de los Cítricos para dar la voz de alerta en caso de verificarse su presencia.
+
+    - Voz en off. Imagen de fondo: *Diapositiva 3*. El curso se desarrollará en la plataforma de mensajería instantánea Whatsapp, en la cual cada participante será agregado a dos salas de mensajería: la *Sala de Materiales de Estudio* se utilizará para que los capacitadores publiquen los materiales del curso y *La Sala de Intercambio* que será el lugar para compartir experiencias, responder consultas y publicar los resultados logrados. Los materiales de los cursos serán publicados en una fecha y hora determinada, en la *Sala de Materiales de Estudio*, donde los *Participantes* pueden acceder a ellos y revisarlos cuando lo necesiten. En la fecha y en el horario publicado en la *La Sala de Materiales de Estudio* los *Capacitadores* interactuarán con los *Participantes* y responderán las consultas requeridas. Durante el resto del tiempo, la participación de los *Capacitadores* en *La Sala de Intercambio* estará sujeta a la disponibilidad  en horario laboral.
+
+    - Voz en off. Imagen de fondo: trampas caseras. Los *Participantes* como devolución de la capacitación, deberán presentar fotos o microvideos captados con el celular, de los trabajos prácticos que se les pidan, realizados en base a los contenidos compartidos en el taller. Este material audiovisual deberá ser compartidos en la *Sala de Intercambio* en las fechas determinadas.
+
+    - Voz en off. Imagen de fondo: modelo de certificado. Al final del taller se entregará un certificado digital de participación y aprobación a todo aquel participante que haya presentado el 80% de los trabajos prácticos requeridos en el lapso de tiempo estipulado y que halla publicado por lo menos un mensaje en la *La Sala de Intercambio* en cada uno de los módulos del taller virtual.
+
+    - Voz en off. Imagen de fondo: *Diapositiva 4*. Para que podamos tener una experiencia provechosa la participación en el taller implica la aceptación del *Código de Conducta* que se publica junto a este microvideo.
+
+    - Voz en off. Imagen de fondo: *Diapositiva 5*. Igualmente para hacer más dinámico y productivo los intercambios, se publica el reglamento del curso donde se determinan los principales supuestos de funcionamiento.
+
+    - Voz en off. Video de fondo: MRB hablando, acompañado de imágenes de un huertero rastrillando bajo un naranjo, poniendo trampas amarillas, etc. Ahora una breve introducción a las plagas de los frutales de traspatio. Nos podemos encontrar que diversos seres vivos pueden causar daño en nuestros frutales, sin embargo en una apretadísima síntesis, podemos expresar que el concepto clave es que si una plaga nos causa daño, hay algún factor ambiental desfavorable que debilita al frutal o potencia la plaga. En muchos casos a nivel de nuestra huerta no estamos en condiciones de controlar efectivamente una plaga, como es el caso de la mosca de la fruta, pero sí podemos realizar acciones que fortalezcan a la planta, como el agregado de abonos orgánicos, riegos y podas adecuadas, etc, que nos aseguren que la planta crecerá fuerte y sana, defendiéndose de esa manera mucho mejor. Un segundo principio del cuidado de los frutales familiares es la prevención, si hay plagas que aparecen todos los años, hay que prepararse antes de que se asienten y comiencen a reproducirse y causar daño. La mejor manera para prevenir es conocer nuestros frutales y las plagas que lo atacan, con lo cual podemos utilizar herramientas en las fechas adecuadas para manejar las plagas. En agricultura agroecológica no buscamos eliminar o exterminar, la plaga es un organismo vivo que tiene una función en el ecosistema, exterminar un ser vivo significa que desbalanceamos la naturaleza, con la posibilidad de provocar graves daños en alguna otra parte. En agroecologia se recomienda no usar productos de síntesis química, como el abono para la caña de azúcar o los insecticidas químicos, por que posiblemente su uso traigan consecuencias no deseadas.
+
+    - Voz en off. Video de fondo. MRB hablando. El trabajo práctico del presente módulo será que saquen con el celular una foto de planta completa de un frutal de su casa o de algún especímen representativo, detallando la ubicación del árbol y la especie. Luego deberán sacar una foto a algún insecto que consideren plaga o a algún síntoma de daño de la planta, con alguna explicación de lo que consideren conveniente para describir los daños o la plaga. Tienen hasta el próximo lunes  para presentarlo. En la *Sala de Intercambio* se discutirá el próximo martes los materiales presentados.    
+
+    - Voz en off. Imágen de fondo: frutales en la huerta familiar. Esto es todo por este módulo. Se envían junto con este video una serie de diapositivas con información extra y un enlace a una  [[/home/gavilan/Dropbox/INTA Banda del Río Salí/Capacitaciones virtuales/taller_frutales/material_audiovisual/frutales_huerta_familiar_modulo_1.pdf][cartilla resumida de manejo de árboles frutales en la huerta familiar]]. Este módulo se continúa con el módulo *Mosca de la fruta en la huerta familiar*.
+
+- *Diapositiva 1*:
+
+  - Objetivo:
+
+    - Que los participantes de la capacitación mejoren o adquieran los conocimientos para manejar agroecológicamente las plagas claves en los frutales familiares.
+
+    - Difundir y capacitar a los participantes en la identificación de Diaphorina citri, generando de tal manera un núcleo de actores del territorio que estaría en condiciones de alertar tempranamente sobre la presencia del vector del Candidatus liberibacter sp en las plantas cítricas de traspatio.
+
+- *Diapositiva 2*
+
+  - Productos esperados:
+
+    - Promotores y huerteros capacitados.
+
+    - Producción de trampas, atrayentes y remedios caseros.
+
+    - Capacidad de los Participantes de alertar de la presencia de Chicharrita de los Cítricos.
+
+- *Diapositiva 3*
+
+  - Presentación de la metodología empleada:
+
+    - Uso de la plataforma de mensajería Whatsapp para enviar y recibir materiales e interactuar, con dos salas o grupos:
+
+      - *La Sala de Materiales de Estudio* donde se publican los materiales del curso, solo pueden publicar los  Capacitadores. Su importancia radica en evitar que los materiales se pierdan entre todos los mensajes de los Participantes una vez que se generalice la discusión.
+
+      - *La Sala de Intercambio*: es el lugar donde se comparten mensajes, consultas y los resultados de los trabajos prácticos. Todos los *Integrantes* están habilitados para publicar.  
+
+- *Diapositiva 4*:
+
+  - Código de conducta.
+
+- *Diapositiva 5*:
+
+  - Reglamento del taller.
+
+- *Diapositiva 6*:
+
+  - Tiempos y horarios:
+
+    - Días y hora en que se publican los materiales.
+
+    - Días y hora en que los *Capacitadores* interactúan en la *Sala de Intercambio*.
+
+** Mosca de la fruta en la huerta familiar:
+   :PROPERTIES:
+   :CUSTOM_ID: mosca-de-la-fruta-en-la-huerta-familiar
+   :END:
+
+- *Video introducción*:
+
+  - De 120 a 240 segundos. BC en vivo. Frutales que ataca y daños que provoca, especies e identificación de moscas de
+   la fruta, ciclo biológico, momento del daño, manejo cultural de la plaga, monitoreo con trampas, control con trampas.
+
+  - *Diálogos*:
+
+    - BC en vivo. Bienvenidos al módulo Mosca de la Fruta en la huerta familiar. La mosca es una de las plagas más dañina, atacando a casi todos los frutales de nuestra huerta, con la sola excepción del limonero. Muchos huerteros nos preguntan por que nunca pueden comer un duraznero, por que se la fruta se pudre y se cae antes de madurar por completo, o las naranjas que se les forma una mancha redonda parda y se caen en cantidad; esta plaga es la responsable de dichos comportamientos. Además las encontramos en mangos, ciruelos, guayaba, higos, maracuya, nispero, palta, papaya, pimiento, tomate de árbol, tuna, uva, etc . Los adultos miden 4 a 5 mm y 10 a 15 mm de envergadura alar. Sus alas son de colores llamativos. La hembra coloca sus huevos perforando la cáscara o piel de los frutos cuando están cambiando su color.
+
+    - BC en vivo. Imágenes de frutos dañados. Las larvas ocasionan el daño alimentándose del interior de los frutos, los cuales inician un proceso de putrefacción y se caen, impidiendo de puedan ser aprovechados.
+
+    - BC en vivo e imágenes de Anastrepha y Ceratitis. La mosca de la fruta en realidad son dos especies que atacan a nuestros frutales, la Moscas son de color marrón con alas manchadas. La *Mosca del Mediterráneo* es más pequeña, tórax con manchas blancas y negras, alas dirigidas lateralmente. La *Mosca Sudamericana de las frutas* más grande, tórax castaño con rayas amarillas, alas dirigidas hacia atrás.
+
+    - Diapositiva con el ciclo biológico. Voz en off BC. Las larvas inician su actividad al final del invierno o al principio de la primavera cuando aumenta la temperatura, en el llano tucumano tal vez a finales de agosto. Una mosca macho busca a una mosca hembra, se produce la cópula, la mosca busca una fruta pintona y deposita bajo la cascara entre 1 a 20 huevos por fruta, según la temperatura entre los 2 y 7 días nacen las larvas (unos pequeños gusanos blancos cónicos), y durante 6 a 11 días se alimentan de la pulpa hasta que pasan a la etapa inmóvil de pupa, con forma de barril de color ocre, estos se encuentran en el suelo entre 1 y 5 cm de profundidad. Entre los 9 y los 11 días emerge una nueva mosca, que volará durante 1 a 2 meses, alimentándose de jugos azucarados o fermentados, sin capacidad de causar daño por si misma. En concreto, en nuestras condiciones pueden llegar a tener 6 a 8 generaciones anuales, pudiendo poner cada hembra hasta 400 huevos .
+
+    - Diapositiva de momento del daño. Voz en off. Como la mosca tiene varias generaciones por año, puede aprovechar el ciclo de maduración de las distintas especies frutales de nuestra huerta y la de nuestros vecinos, así es que (como ejemplo) la mosca puede iniciar el ataque en septiembre a las naranjas tardías, continuar con una explosión con los durazneros entre octubre - diciembre, con el mango en enero, naranjas tempranas y frutales del monte entre febrero - abril, donde ya disminuye su actividad por que disminuye la temperatura (no desaparece hasta la primera helada). Por lo tanto, si hay en cercanías de la huerta muchos tipos de frutales, lo que da muchas fuentes alternativas de alimento a lo largo del año, potencia la multiplicación de la plaga y seguramente multiplica el daño.
+
+    - Diapositiva de rastrillaje y enterrado de frutos, diapositivas de trampas comerciales, diapositiva de pulverización de frutales. El control de la mosca se inicia con practicas culturales consistentes, empezando por no dejar frutos atacados en la planta, raspar con la pala bajo la copa de los frutales a finales del invierno para controlar las pupas enterradas invernantes (pero no profundizar tanto para no afectar las raíces de los frutales), recoger los que se caigan y enterrarlos o compostarlos a más de 50 cm de profundidad, concientizar a los vecinos de seguir las mismas prácticas culturales, y el control de la plaga. A nivel comercial se hace control químico con pulverizaciones y el uso de trampas comerciales con cebos químicos, lo cual es impracticable en las condiciones de la huerta familiar, por ello compartiremos la recomendación de la unidad que es la de fabricar trampas caseras para el monitoreo y control de moscas de las frutas.
+
+    - Video en vivo, MRB, construcción y colocación de dos trampas caseras, con atrayente solución de fosfato monosodico y con vinagre de vino más agua; diapositiva de materiales necesarios para preparar las trampas. Las trampas se colocan a media altura del árbol, siguiendo el ciclo de maduración de las frutas.
+
+    - Diapositiva de logos del curso. Voz en off. El trabajo práctico de este módulo consiste en que cada participante construya una o dos trampas de mosca de la fruta, suba dos fotos a la *Sala de Discusión* con un detalle de la trampa y con la misma colocada en el frutal. Optativo una foto o video de la limpieza bajo la copa de los árboles buscando eliminar la pupa de la mosca o la disposición de frutos con daño en la compostera o enterrándolos.
+
+- *Diapositiva 1 a la 3*:
+
+  - Frutales que ataca y daños que provoca:
+
+    - Imágenes de frutos atacados de naranja, durazno, otros.
+
+    - Imágenes de adultos de mosca. Imágenes de larva de mosca.
+
+    - El daño es provocado por la larva de la mosca, que se inicia cuando la mosca coloca dentro del fruto, con el apéndice de la cola, los huevos en frutos de determinado tamaño: tamaño de una nuez o más grande en durazno, tamaño de una pelota de tenis o más grande en cítricos.
+
+- *Diapositiva 4*:
+
+  - Momento del daño: gráfico con línea de tiempo del ataque de la mosca de la fruta en distintos frutales.
+
+- *Diapositivas 5 y 6*:
+
+  - *Especies e identificación*
+
+    - Foto y descripción de Mosca del Mediterráneo (Ceratitis capitata).
+
+    - Foto y descripción de Mosca Mediterránea de los Frutos (Anastrefa fraterculus)
+      
+- *Diapositiva 7*:
+
+  - Ciclo biológico:
+
+    - Gráfico del ciclo biológico.
+
+    - El ciclo se inicia con el huevo de la mosca colocado dentro de la fruta, del cual nace una larva, que se desarrolla en el interior de la fruta, comiendo la pulpa. Al madurar la fruta, la larva sale de la fruta o cae con ella al suelo, se entierra entre uno o dos dedos de profundidad, forma un barrilito de color ocre, del cual sale la mosca adulta; este barril llamado pupa es la forma en que la mosca pasa el invierno, activándose cuando aumenta la temperatura en la primavera. La mosca adulta busca jugos azucarados para alimentarse, pero no tiene capacidad de hacer daño en frutas. Luego de un tiempo, las moscas se aparean, depositando las moscas hembras los huevos dentro de las frutas y reiniciando el ciclo. El ciclo se repite de 3? a 6? veces por año dependiendo de la localidad y el clima, solo deteniéndose en el invierno por las bajas temperaturas.
+
+- *Diapositiva 8*
+
+  - Manejo cultural de la plaga:
+
+    - Hay que prevenir el daño.
+
+* Anexos
+
+** Código de conducta:
+
+ Con el objetivo de fomentar un ambiente abierto, seguro y amigable, quienes organizamos nos comprometemos a hacer de la participación en este taller de capacitación virtual una experiencia libre de acoso para todas las personas, independientemente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas.
+
+*** Nuestros estándares
+
+ No toleramos el acoso de los *Participantes*  de ninguna forma.
+
+ *Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:*
+
+   * Demostrar empatía y amabilidad ante otras personas.
+
+   * Respeto a diferentes opiniones, puntos de vista y experiencias.
+
+   * Dar y aceptar adecuadamente retroalimentación constructiva.
+
+   * Aceptar la responsabilidad y disculparse ante quienes afectemos por nuestros errores, aprendiendo de la experiencia.
+
+   * Centrarse en lo que sea mejor no sólo para nosotros como personas, sino para la comunidad en general.
+
+ *Ejemplos de comportamiento inaceptable:*
+
+   * El uso de lenguaje o imágenes sexualizadas como también atención o avances sexuales no deseados.
+
+   * Comentarios despectivos (trolling), insultantes y ataques personales o políticos.
+
+   * Cualquier tipo de acoso en público o privado.
+
+   * Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito.
+
+   * Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un entorno profesional.
+
+ *Nuestras responsabilidades*
+
+ Los *Capacitadores* son los responsable de aclarar los estándares de comportamiento aceptable y nos reservamos el derecho de admisión o permanencia, temporal o permanente, en la comunidad de este taller virtual para cualquier caso de comportamiento que consideremos inaceptable.
+
+ También tenemos la responsabilidad y nos reservamos el derecho de eliminar, editar o rechazar comentarios, materiales y otras contribuciones que no estén alineadas con este Código de Conducta.
+
+ *Alcance*
+
+ Este código de conducta aplica a todos los espacios relacionados con este taller virtual. Esto incluye nuestra cuenta de correo electrónico, las páginas web que utilicemos, nuestros talleres a través de Zoom, las salas de mensajería y cualquier otro medio que sea parte este taller virtual.
+
+ *Aplicación*
+
+ Los casos de comportamiento abusivo, acosador o inaceptable pueden ser informados enviando un correo electrónico a aerbanda@inta.gob.ar. Todas los mensajes serán revisados e investigados y darán como resultado la respuesta que el *Capacitador* considere necesario y apropiado a las circunstancias.
+
+ Los *Capacitadores* respetarán la privacidad y la seguridad de quienes reporten incidentes.
+
+ *Atribución*
+
+ Este Código de Conducta se basa en el [[https://metadocencia.netlify.app/cdc/][Código de Conducta de Metadocencia]], el cual es una adaptación del Contributor Covenant, versión 2.0, disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html.
+
+** Reglamento del taller:
+
+*** Requisitos para participar del taller:
+
+  * Ser promotor del ProHuerta, huertero o docente.
+
+  * Disponer de un celular con la aplicación de mensajería Whatsapp instalada y operativa, con un mínimo de espacio para almacenar archivos que serán enviados por los *Capacitadores*.
+
+  * Tener acceso a datos de internet, aunque no necesariamente de manera constante, para poder descargar los materiales enviados por los *Capacitadores* y poder interactuar en la sala de mensajes y cargar los trabajos prácticos solicitados.
+
+  * Tener una disponibilidad mínima de tiempo para estudiar los materiales enviados y realizar los trabajos prácticos solicitados.
+
+  * Tener disponibilidad de acceso a materiales requeridos para los trabajos práctico.
+
+*** Para participar del taller virtual los interesados deberán enviar directamente al teléfono que oportunamaente se informará, por medio de un mensaje de texto de la aplicación Whatsapp, los siguientes datos:
+ 
+ : * Nombre y Apellido. 
+
+ : * Documento.
+
+ : * Domicilio.
+
+ : * Profesión (aclarar si es Promotor, Huertero, Profesor de Técnicas Agropecuaria, etc.)
+
+ : * Dirección.
+
+ : * Localidad.
+
+ : * Observaciones: (cualquier información que le resulte importante compartir con los *Capacitadores*)
+
+*** Horarios del taller:
+
+  * Para publicar los materiales de los nuevos temas: los martes en horario matutino.
+
+  * Presencia de algún *Capacitador* en línea en la aplicación Whatsapp para responder consultas o dudas: días miércoles entre las 08:30 y las 12:30 y días jueves entre las 14:00 y las 18:00 hs.
+
+  * Publicación de los trabajos prácticos por parte de los *Participantes*: en los días y horarios especificados por los *Capacitadores* y acordados en la *Sala de Intercambio*.
+
+  * Los horarios y fechas se podrán modificar de común acuerdo en la *Sala de Intercambio*
+
+*** Organización de taller:  
+
+ En módulos semanales, exceptuando el primer módulo que se desarrollará en conjunto con el segundo módulo. Los trabajos prácticos de cada según los requerimientos pueden exceder el tiempo de desarrollo del módulo donde se origina, ello será explicitado al presentar cada módulo.
+
+*** Sobre los intercambios:
+
+  * Se recomienda que los intercambios en la sala de chat se publiquen en formato de texto, aunque esto no implica desechar el formato de mensaje de audio.
+
+  * Se solicita que los mensajes compartidos sean consisos y concretos, sin utilizar abreviaturas ni códigos que dificulten la interpretación del texto.
+
+  * El uso de emoticonos está permitido pero se recomienda su uso con moderación.
+
+  * Los mensajes dentro de la sala de chat, de acuerdo al *Código de Conducta* solo deben estar relacionados al taller virtual.
+
+*** Expulsión de participantes de las salas: si no se cumple con el *Código de Conducta*, algún *Capacitador* advertirá por un mensaje privado al *Participante* infractor y en caso de continuar con la actitud se lo expulsará, comunicando la desición en la *Sala de Intercambio* sin dar detalles de las razones.
+
+*** Requisitos de aprobación:
+
+  * Devolución de por lo menos el 80% de los trabajos prácticos en el tiempo especificado.
+
+  * Publicar en la *Sala de Intercambio* por lo menos una vez por cada modulo.
+
+*** Certificación:
+
+ Al final del taller virtual se emitirá un certificado digital a aquellos *Participantes* que cumplan con los requisitos de aprobación. Vale aclarar que no garantizamos que el documento emitido tenga valor para algunas instituciones como por ejemplo la Secretaría de Educación.
+* Bibliografía
+
+Cáceres, Sara. 2006. Guía Práctica Para la Identificación y el manejo de las Plagas de Citrus. 1a ed. Buenos Aires, Argentina: Ediciones INTA, 2013. https://inta.gob.ar/sites/default/files/script-tmp-inta-gua_prctica_para_la_identificacin_y_el_manejo_de.pdf.
+
+Calcagno, Graciela Elena. 2001. «Comportamiento reproductivo en la Mosca del Mediterráneo, Ceratitis capitata (Díptera: Tephritidae)  y su aplicación en programas de Control  Genético». Tesis de Doctorado, Buenos Aires, Argentina: Facultad de Ciencias Exactas y Naturales. Universidad de Buenos Aires. https://bibliotecadigital.exactas.uba.ar/download/tesis/tesis_n3318_Calcagno.pdf.
+
+«Ceratitis capitata». 2020. En Wikipedia, la enciclopedia libre. https://es.wikipedia.org/w/index.php?title=Ceratitis_capitata&oldid=125045925.
+
+Churquina, Sergio. s. f. «Evaluación de dos tipos de atrayentes, utilizados en la técnica de trampeo masivo, para el control del complejo de mosca de la fruta en vid.» Accedido 19 de agosto de 2020. http://aafitopatologos.com.ar/wp/wp-content/uploads/2017/06/9-Sergio-Churquina-mosca-de-la-fruta.pdf.
+
+«Cómo realizar trampas caseras para combatir la mosca de la fruta». s. f. Infocampo. Accedido 19 de agosto de 2020. https://www.infocampo.com.ar/como-realizar-trampas-caseras-para-combatir-la-mosca-de-la-fruta/.
+
+«La Mosca de la Fruta (Ceratitis capitata)». s. f. INTA. Accedido 19 de agosto de 2020. https://inta.gob.ar/documentos/la-mosca-de-la-fruta-ceratitis-capitata.
+
+«Mosca de los frutos». 2018. Argentina.gob.ar. 29 de agosto de 2018. https://www.argentina.gob.ar/frutales-produccion-primaria/mosca-de-los-frutos.
+Triadani, Omar E., y Erik Buxmann. s. f. La mosca de la fruta. Río Cuarto, Córdoba, Argentina: INTA. Accedido 19 de agosto de 2020. https://inta.gob.ar/sites/default/files/inta_la_mosca_de_las_frutas.pdf.
